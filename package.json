@@ -1,5 +1,5 @@
 {
-	"name": "boostrap-scss-custom",
+	"name": "bootstrap-scss-custom",
 	"version": "1.0.0",
 	"description": "Custom Boostrap SCSS files (only)",
 	"main": "custom.scss",
