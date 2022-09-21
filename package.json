@@ -1,0 +1,27 @@
+{
+	"name": "boostrap-scss-custom",
+	"version": "1.0.0",
+	"description": "Custom Boostrap SCSS files (only)",
+	"main": "custom.scss",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/proxymurder/bootstrap-scss-custom.git"
+	},
+	"bugs": {
+		"url": "https://github.com/proxymurder/bootstrap-scss-custom/issues"
+	},
+	"keywords": [
+		"bootstrap",
+		"bootstrap-scss",
+		"bootstrap-scss-custom",
+		"custom",
+		"scss"
+	],
+	"author": {
+		"name": "MurderByProxy",
+		"url": "https://proxymurder.com",
+		"email": "ohmygod@proxymurder.com"
+	},
+	"license": "MIT",
+	"homepage": "https://github.com/proxymurder/bootstrap-scss-custom"
+}
