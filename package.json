@@ -1,5 +1,5 @@
 {
-	"name": "@proxymurder/boostrap-scss-custom",
+	"name": "boostrap-scss-custom",
 	"version": "1.0.0",
 	"description": "Custom Boostrap SCSS files (only)",
 	"main": "custom.scss",
