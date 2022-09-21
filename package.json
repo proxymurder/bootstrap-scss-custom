@@ -3,6 +3,9 @@
 	"version": "1.0.0",
 	"description": "Custom Boostrap SCSS files (only)",
 	"main": "custom.scss",
+	"peerDependencies": {
+		"bootstrap-scss": "^5.2.1"
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/proxymurder/bootstrap-scss-custom.git"
